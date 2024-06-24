@@ -10,6 +10,8 @@ Welcome to rtd-tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   tutorial.md
+
 
 
 Indices and tables
